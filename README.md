@@ -3,21 +3,25 @@
 fun main(){
 
 var car:String = "BMW"
+
 println(car)
 
 
 
 var car1 = "BMW"
+
 println(car1)
 
 
 
 var car2 = "BMW"
+
 println(car2::class)
 
 
 
 var number = 25
+
 println(number)
 
 
